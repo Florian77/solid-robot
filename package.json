@@ -1,0 +1,20 @@
+{
+  "name": "solid-robot",
+  "description": "another collection of functions",
+  "author": {
+    "name": "Florian Tölle"
+  },
+  "version": "0.0.1",
+  "scripts": {
+    "prepublishOnly-OFF": "",
+    "publish-package": "npm publish"
+  },
+  "dependencies": {
+    "ramda": "^0.27.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Florian77/solid-robot.git"
+  }
+}
