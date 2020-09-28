@@ -4,7 +4,7 @@
   "author": {
     "name": "Florian Tölle"
   },
-  "version": "0.0.1",
+  "version": "1.0.0",
   "scripts": {
     "test": "npx mocha --ui bdd ./test/**/*.test.js",
     "prepublishOnly": "npm test",
